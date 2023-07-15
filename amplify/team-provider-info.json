@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inventorymanager-staging-60024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::489617511658:role/amplify-inventorymanager-staging-60024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::489617511658:role/amplify-inventorymanager-staging-60024-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-inventorymanager-staging-60024-deployment",
+      "UnauthRoleName": "amplify-inventorymanager-staging-60024-unauthRole",
+      "StackName": "amplify-inventorymanager-staging-60024",
+      "StackId": "arn:aws:cloudformation:us-east-1:489617511658:stack/amplify-inventorymanager-staging-60024/e3fe5090-22d4-11ee-979c-128872e049ef",
+      "AmplifyAppId": "d3qsialfb57y07"
+    }
+  }
+}
