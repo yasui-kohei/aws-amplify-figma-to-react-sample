@@ -1,0 +1,1 @@
+# aws-amplify-figma-to-react-sample
